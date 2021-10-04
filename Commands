@@ -1,9 +1,0 @@
-apt update && upgrade
-pkg install python2
-pkg install git
-git clone https://github.com/S4YED-FB.git
-cd S4YED-FB
-python2 facebook.py
-
-Enjoy It.<><><><>
-Team Darkweb
